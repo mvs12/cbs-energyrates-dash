@@ -42,7 +42,6 @@ electricity = df['Electricity EUR per kWh'].tolist()
 
 # Create app layout
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-
 server = app.server
 
 
