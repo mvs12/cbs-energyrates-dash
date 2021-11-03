@@ -1,0 +1,6 @@
+dash
+cbsodata
+pandas
+plotly
+dash-bootstrap-components
+gunicorn
